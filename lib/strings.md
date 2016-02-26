@@ -17,7 +17,7 @@ You can use the str[index] method, where "str" is the string you want to use (in
 
 # The previous question asks about finding, for example, the 6th character in a String. Is it possible to find the **-6th** (Notice the negative symbol!) character in a String? What does that even mean?
 
-Yes. The "-6th" character in a string is the character that is 6 places from the end. To find the -6th character, you use basically the same method as finding the 6th (positive) character in a string: `"Ada Lovelace"`[-5]. 
+Yes. The "-6th" character in a string is the character that is 6 places from the end. To find the -6th character, you use basically the same method as finding the 6th (positive) character in a string: `"Ada Lovelace"`[-6]. 
 
 # What is one way, using Ruby, to replace certain characters in a string with some other set of characters? For example, given `"Sumeet Jain"`, how would you replace all of the `e` characters in my name with exclamation marks? (So it would be `"Sum!!t Jain"`.)
 
